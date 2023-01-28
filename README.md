@@ -8,8 +8,7 @@
 |______\____|_| |_| |_|_|_| |_|\___/
                                     
                                     
-                                    
-                                    <img src="https://i.imgur.com/xwQz0TU.jpg" height="60" width="60" >
+![Employee data](https://i.imgur.com/xwQz0TU.jpg "Employee Data title")
 
 Fr:
 
