@@ -9,8 +9,7 @@
                                     
                                     
                                     
-                                    
-                                    ![Employee data](https://i.imgur.com/xwQz0TU.jpg "Lumino")
+                                    <img src="https://i.imgur.com/xwQz0TU.jpg" height="60" width="60" >
 
 Fr:
 
