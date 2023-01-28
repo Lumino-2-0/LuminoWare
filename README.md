@@ -16,7 +16,7 @@ Bonjour/Bonsoir,
 
 Je poste mon projet/virus afin que les personnes voulant savoir comment fonctionne un ransomware puisse avoir un petit exemple. J'étais dans ce cas là et depuis j'ai pu comprendre et l'améliorer, mon but n'était pas à ce qu'il soit partagé publiquement à des fins mauvaise ou illégal mais afin de tester mes connaissances. Pour tous vous dire, je n'avais pas prévu à la base, de le publier mais de le garder en tant que projet de test sur mon ordinateur local ! De plus je vous prierais de ne pas poster de commentaire insultant sur la façon dont je code car je n'ai que 14ans et je l'ai commencer à 13ans donc je suis débutant et ce n'est qu'une passion, pas encore une profession !
 
-Ce virus n'est compatible qu'avec Windows 8/8.1/10 parce qu'il faut powershell donc si vous voulez avoir des versions Win7 ou autre, modifier le comme bon vous semble pour le rendre compatible si vous voulez mais je ne le ferais pas ! Pour finir, ce code aura un problème car je n'ai pas pu téléverser un fichier trop grand (musique pour le fun) donc je vous laisse la télécharger ici --> <p src="https://mega.nz/file/gf1VVBiQ#NXIiIfMJWAifjnJbKd7_fqR0Wmzit1SwKtbruF3GdmA"> ICI </p> et la mettre dans /Luminoware/Ressouces/  . 
+Ce virus n'est compatible qu'avec Windows 8/8.1/10 parce qu'il faut powershell donc si vous voulez avoir des versions Win7 ou autre, modifier le comme bon vous semble pour le rendre compatible si vous voulez mais je ne le ferais pas ! Pour finir, ce code aura un problème car je n'ai pas pu téléverser un fichier trop grand (musique pour le fun) donc je vous laisse la télécharger ici --> <a src="https://mega.nz/file/gf1VVBiQ#NXIiIfMJWAifjnJbKd7_fqR0Wmzit1SwKtbruF3GdmA">ICI</a> et la mettre dans /Luminoware/Ressouces/  . 
 
 EN:
 
