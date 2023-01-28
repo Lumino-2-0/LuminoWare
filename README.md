@@ -28,8 +28,8 @@ I'm posting my project/virus so that people who want to know how ransomware work
 This virus is only compatible with Windows 8/8.1/10 because it requires powershell so if you want to have Win7 or other versions, modify it as you see fit to make it compatible if you want but I wouldn't ! Finally, this code will have a problem because I couldn't upload a file that was too big (music for fun) so I let you download it here --> [HERE](https://mega.nz/file/gf1VVBiQ#NXIiIfMJWAifjnJbKd7_fqR0Wmzit1SwKtbruF3GdmA)
 and put it in ./Luminoware/Ressouces/ 
 
-//Merci d'avoir lu
-//Thank you for reading
+/Merci d'avoir lu.
+/Thank you for reading.
 
 Lumino.
 
