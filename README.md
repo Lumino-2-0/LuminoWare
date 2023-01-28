@@ -1,12 +1,16 @@
 # Project-Lumino
-<p>
+
  _                     _             
 | |                   (_)            
 | |    _   _ _ __ ___  _ _ __   ___  
 | |   | | | |  _   _ \| |  _ \ / _ \ 
 | |___| |_| | | | | | | | | | | (_) |
 |______\____|_| |_| |_|_|_| |_|\___/
- </p>                                    
+                                    
+                                    
+                                    
+                                    
+                                    ![Employee data](https://i.imgur.com/xwQz0TU.jpg "Lumino")
 
 Fr:
 
@@ -26,7 +30,7 @@ I'm posting my project/virus so that people who want to know how ransomware work
 
 Lumino.
 
-<o>
+
  _                     _         __          __            
 | |                   (_)        \ \        / /            
 | |    _   _ _ __ ___  _ _ __   __\ \  /\  / /_ _ _ __ ___ 
@@ -40,4 +44,4 @@ Lumino.
                    / // /_ / / / /
                   /__  __// /_/ / 
                     /_/ (_)____/                
-</o>
+
