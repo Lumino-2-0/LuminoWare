@@ -26,6 +26,7 @@ I'm posting my project/virus so that people who want to know how ransomware work
 
 Lumino.
 
+
  _                     _         __          __            
 | |                   (_)        \ \        / /            
 | |    _   _ _ __ ___  _ _ __   __\ \  /\  / /_ _ _ __ ___ 
