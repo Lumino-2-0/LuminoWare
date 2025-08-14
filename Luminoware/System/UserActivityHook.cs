@@ -27,7 +27,8 @@ L)llllll   U)uuuu   M)      mm  I)iiii  N)    nn   O)oooo        R)    rr  A)   
 using System;                           /*\|---------------------------------------------------------------------------------------------------------------|\*/
 using System.Runtime.InteropServices;   /*\|   Librairie de base (System) et Librairie pour les appels Win32 (Runtime.InteropServices) et Librairie pour   |\*/
 using System.Reflection;                /*\|                            les appels à des fonctions externes (Reflection)                                   |\*/
-/*                                      /*\| INFO: un hook sert à bloquer la souris/clavier de l'utilisateur (sauf ctrl+alt+sup: intercepeter par Windows) |\*/
+/*                                      /*\|                 INFO: Ici, le "hook" sert à capter les infos souris/clavier de l'utilisateur                  |\*/
+                                        /*\|                             (sauf ctrl+alt+sup: intercepeter par Windows)                                     |\*/
 /*                                      /*\|---------------------------------------------------------------------------------------------------------------|\*/
 
 
@@ -105,4 +106,5 @@ namespace GlobalHook
             return -1;                                                                                                                                                    // retourne -1
         }
     }
+
 }
