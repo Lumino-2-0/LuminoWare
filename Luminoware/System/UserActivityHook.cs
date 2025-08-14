@@ -43,11 +43,11 @@ namespace GlobalHook
         private static HookProc MouseHookProcedure = null;                                                                                 // initialisation de la variable MouseHookProcedure qui permet de définir le hook de la souris à l'aide de la fonction HookProc
         private static HookProc KeyboardHookProcedure = null;                                                                              // initialisation de la variable KeyboardHookProcedure qui permet de définir le hook du clavier à l'aide de la fonction HookProc
 
-        [DllImport("user32.dll", CharSet = CharSet.Auto, CallingConvention = CallingConvention.StdCall, SetLastError = true)]              // appel de la fonction SetWindowsHookEx de la librairie user32.dll pour définir le hook de la souris (WH_MOUSE_LL) ou du clavier (WH_KEYBOARD_LL) pour activer le hook
+        [DllImport("user32.dll", CharSet = CharSet.Auto, CallingConvention = CallingConvention.StdCall, SetLastError = true)]              // appel de la fonction SetWindowsHookEx de la librairie user32.dll pour définir le hook de la souris (WH_MOUSE_LL) ou du clavier (WH_KEYBOARD_LL)
         private static extern int SetWindowsHookEx(int idHook, HookProc lpfn, IntPtr hMod, int dwThreadId);                                // déclaration de la fonction SetWindowsHookEx avec des paramètres de type int, HookProc, IntPtr et int
 
 
-        [DllImport("user32.dll", CharSet = CharSet.Auto, CallingConvention = CallingConvention.StdCall, SetLastError = true)]              // appel de la fonction UnhookWindowsHookEx de la librairie user32.dll pour désactiver le hook de la souris (WH_MOUSE_LL) ou du clavier (WH_KEYBOARD_LL) pour désactiver le hook
+        [DllImport("user32.dll", CharSet = CharSet.Auto, CallingConvention = CallingConvention.StdCall, SetLastError = true)]              // appel de la fonction UnhookWindowsHookEx de la librairie user32.dll pour désactiver le hook de la souris (WH_MOUSE_LL) ou du clavier (WH_KEYBOARD_LL)
         private static extern int UnhookWindowsHookEx(int idHook);                                                                         // déclaration de la fonction UnhookWindowsHookEx avec un paramètre de type int
 
         private delegate int HookProc(int nCode, int wParam, IntPtr lParam);                                                               // déclaration de la fonction HookProc avec des paramètres de type int, int et IntPtr
@@ -108,3 +108,4 @@ namespace GlobalHook
     }
 
 }
+
